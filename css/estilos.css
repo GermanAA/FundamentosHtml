@@ -1,0 +1,21 @@
+body {
+	background: #BFC9CA;
+	color: #5D6D7E  ;
+	
+}
+
+.container{
+	background: #F8F9F9 ;
+
+}
+
+.jumbotron{
+	background: #FF9D55;
+	
+}
+
+.img{
+
+	width: 400px;
+	height: 200px;
+}
